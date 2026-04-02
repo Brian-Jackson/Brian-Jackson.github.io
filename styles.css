@@ -62,9 +62,9 @@ nav {
 
 /* Typography & Layout */
 .container {
-    max-width: 1000px;
+    max-width: 1200px; /* Widened to fit 4 screenshots */
     margin: 0 auto;
-    padding: 100px 20px 40px; /* Top padding clears the fixed nav */
+    padding: 100px 20px 40px; 
 }
 
 h1 {
