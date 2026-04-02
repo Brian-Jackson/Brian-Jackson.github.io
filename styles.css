@@ -62,7 +62,7 @@ nav {
 
 /* Typography & Layout */
 .container {
-    max-width: 1400px; /* Widened to fit 4 screenshots */
+    max-width: 1400px; /* Widened further for spacious desktop viewing */
     margin: 0 auto;
     padding: 100px 20px 40px; 
 }
